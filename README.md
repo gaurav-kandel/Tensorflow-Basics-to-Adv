@@ -1,7 +1,3 @@
-# Tensorflow Learning Plan
-Here's a sample `README.md` for your TensorFlow Basics to Advanced repository:
-
-```markdown
 # TensorFlow Basics to Advanced
 
 This repository provides a comprehensive journey into TensorFlow, guiding learners from the basics to advanced applications of machine learning and deep learning.
